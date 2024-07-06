@@ -1,0 +1,176 @@
+﻿@using HrSystem.DAL.Identity
+@model AttendanceViewModel
+@{
+    var Employees = new SelectList(ViewBag.Employees, "Id", "Name");
+    int counter = 0;
+    var paginatedList = ViewBag.PaginatedList as PaginatedList<Attendance>;
+}
+
+<section id="configuration">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title-wrap bar-success">
+                        <div class="col">
+                            <h4 class="card-title">Attendance</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body collapse show">
+                    <div class="card-block card-dashboard">
+                        <p class="card-text">
+                            DataTables has most features enabled by default,
+                            so all you need to do to use it with your own tables is to call the constructor.
+                        </p>
+
+                        <div class="row">
+                            <form asp-controller="Attendance" asp-action="GetAttendancesList" class="form form-horizontal">
+                                <div class="row">
+                                    <p>&nbsp;&nbsp;&nbsp;</p>
+                                    <p>&nbsp;&nbsp;&nbsp;</p>
+                                    <p>&nbsp;&nbsp;&nbsp;</p>
+                                    <div class="col-sw-8">Employee Name</div>
+                                    <div class="col-sw-8">
+                                        <input placeholder="Search Name" name="SearchValue" class="form-control" />
+                                    </div>
+                                    <p>&nbsp;&nbsp;&nbsp;</p>
+                                    <div>
+                                        <input type="submit" value="search" class="btn btn-success btn-block" />
+                                    </div>
+                                </div>
+                            </form>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                            @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.AddSingleAttendance))
+                            {
+                                <div class="col-lg-3">
+                                    <button id="addRow" class="btn btn-primary mb-2">
+                                        <i class="ft-plus"></i>&nbsp;
+                                        <a asp-controller="Attendance" asp-action="SingleAttendance">Single Attendance</a>
+                                    </button>
+                                </div>
+                                
+                            }
+                        </div>
+                        <table class="table table-striped table-bordered zero-configuration mt-40">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Name</th>
+                                    <th>Id</th>
+                                    <th>Date</th>
+                                    <th>Check In Time</th>
+                                    <th>Check Out Time</th>
+                                    @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.EditAttendance))
+                                    {
+                                        <th>Edit</th>
+                                    }
+                                    @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.DeleteAttendance))
+                                    {
+                                        <th>Delete</th>
+                                    }
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.ListOfAttendance)
+                                {
+                                    <tr>
+                                        @{
+                                            counter++;
+                                        }
+                                        <td>@counter</td>
+                                        <td>@item.Employee.Name</td>
+                                        <td>@item.EmployeeId</td>
+                                        <td>@item.Date.ToShortDateString()</td>
+                                        <td>@item.CheckInTime?.ToString(@"hh\:mm")</td>
+                                        <td>@item.CheckOutTime?.ToString(@"hh\:mm")</td>
+                                        @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.EditAttendance))
+                                        {
+                                            <td>
+                                                <form asp-controller="Attendance" asp-action="UpdateEmployeeAttendance" method="get" asp-route-id="@item.Id">
+                                                    <button type="submit" class="btn btn-blue mr-1">
+                                                        Update
+                                                    </button>
+                                                </form>
+                                            </td>
+                                        }
+                                        @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.DeleteAttendance))
+                                        {
+                                            <td>
+                                                <form asp-controller="Attendance" asp-action="DeleteEmployeeAttendance" asp-route-id="@item.Id" onsubmit="return confirmDelete()">
+                                                    <button type="submit" class="btn btn-danger mr-1">
+                                                        <i class="icon-trash"></i> Delete
+                                                    </button>
+                                                </form>
+                                            </td>
+                                        }
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="row">
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                    <div>Total @paginatedList.Count</div>
+                    <div class="col">
+                        <form id="pageSizeForm" asp-controller="Attendance" asp-action="GetAttandancesList">
+                            <label>
+                                <select name="pageSize" id="pageSizeSelect" class="form-control form-control-sm" onchange="this.form.submit()">
+                                    <option value="10">10</option>
+                                    <option value="20">20</option>
+                                    <option value="50">50</option>
+                                    <option value="100">100</option>
+                                </select>
+                            </label>
+                            <input type="hidden" name="pageNumber" value="@paginatedList.PageIndex" />
+                        </form>
+                    </div>
+                    <p>&nbsp;&nbsp;&nbsp;</p>
+                    <p>&nbsp;&nbsp;&nbsp;</p>
+                    <div class="col text-center">
+                        <ul class="pagination">
+                            <li class="page-item @(paginatedList.HasPreviousPage ? "" : "disabled")">
+                                <a class="page-link" asp-controller="Attendance" asp-action="GetAttandancesList" asp-route-pageNumber="@(paginatedList.PageIndex - 1)" asp-route-pageSize="@paginatedList.PageSize">Previous</a>
+                            </li>
+                            @for (var i = 1; i <= paginatedList.TotalPages; i++)
+                            {
+                                <li class="page-item @(i == paginatedList.PageIndex ? "active" : "")">
+                                    <a class="page-link" asp-controller="Attendance" asp-action="GetAttandancesList" asp-route-pageNumber="@i" asp-route-pageSize="@paginatedList.PageSize">@i</a>
+                                </li>
+                            }
+                            <li class="page-item @(paginatedList.HasNextPage ? "" : "disabled")">
+                                <a class="page-link" asp-controller="Attendance" asp-action="GetAttandancesList" asp-route-pageNumber="@(paginatedList.PageIndex + 1)" asp-route-pageSize="@paginatedList.PageSize">Next</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<script>
+    function confirmDelete() {
+        return confirm('Are you sure you want to delete this record?');
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        var pageSizeSelect = document.getElementById("pageSizeSelect");
+        var pageSize = "@paginatedList.PageSize";
+        for (var i = 0; i < pageSizeSelect.options.length; i++) {
+            if (pageSizeSelect.options[i].value == pageSize) {
+                pageSizeSelect.options[i].selected = true;
+                break;
+            }
+        }
+    });
+</script>

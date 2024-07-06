@@ -1,0 +1,65 @@
+﻿@model GeneralSettingViewModel
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title-wrap bar-success">
+                    <h4 class="card-title">Update Employee @Model.GeneralSettings.EmployeeId</h4>
+                </div>
+            </div>
+            <div class="card-body collapse show">
+                <div class="card-block card-dashboard">
+                    <form asp-controller="GeneralSetting" asp-action="UpdateGeneralSetting" class="form form-horizontal">
+
+                        <div class="form-group row">
+                            <label asp-for="@Model.GeneralSettings.EmployeeId" class="col-md-3 label-control" for="projectinput1" hidden></label>
+                            <div class="col-md-9">
+                                <input asp-for="@Model.GeneralSettings.EmployeeId" type="text" id="projectinput1" class="form-control" hidden>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group row">
+                            <label asp-for="@Model.GeneralSettings.OvertimeHours" class="col-md-3 label-control" for="projectinput1"></label>
+                            <div class="col-md-9">
+                                <input asp-for="@Model.GeneralSettings.OvertimeHours"  type="text" id="projectinput1" class="form-control" required>
+                            </div>
+                            <span asp-validation-for="@Model.GeneralSettings.OvertimeHours" class="text-danger"></span>
+                        </div>
+                        <div class="form-group row">
+                            <label asp-for="@Model.GeneralSettings.DiscountHours" class="col-md-3 label-control" for="projectinput1"></label>
+                            <div class="col-md-9">
+                                <input asp-for="@Model.GeneralSettings.DiscountHours" type="text" id="projectinput1" class="form-control" required>
+                            </div>
+                            <span asp-validation-for="@Model.GeneralSettings.DiscountHours" class="text-danger"></span>
+                        </div>
+                        <div class="form-group row">
+                            <label asp-for="@Model.GeneralSettings.VacationId" class="col-md-3 label-control" for="projectinput7">Vacation Day</label>
+                            <div class="col-md-9">
+                                @foreach (var vacation in Model.ListOfVacation)
+                                {
+                                    var isChecked = Model.EmployeeVacation.Any(x => x.VacationId == vacation.Id && x.value);
+
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" name="selectedVacations" value="@vacation.Id" id="vacation_@vacation.Id" @(isChecked ? "checked" : "")>
+                                        <label class="form-check-label" for="vacation_@vacation.Id">
+                                            @vacation.VacationDay
+                                        </label>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                        <div class="form-actions">
+
+                            <button type="submit" class="btn btn-success">
+                                <i class="icon-note"></i> Save
+                            </button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

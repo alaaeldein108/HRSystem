@@ -1,0 +1,43 @@
+﻿@model ApplicationUser
+
+
+<section id="configuration">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                </div>
+                <div class="card-body collapse show">
+                    <div class="card-block card-dashboard">
+                        <div class="row">
+                            <div class="col-lg-1"></div>
+                            <div class="col-lg-1"></div>
+                        </div>
+                        <table class="table table-striped table-bordered zero-configuration">
+                            <thead>
+                                <tr>
+                                    <th>User Name</th>
+                                    <th>Creator</th>
+                                    <th>Creation Time</th>
+                                    <th>Modifier</th>
+                                    <th>Modification Time</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                <tr>
+                                    <td>@Model.UserName</td>
+                                    <td>@Model?.CreationUsers</td>
+                                    <td>@Model.CreatedAt</td>
+                                    <td>@Model?.ModificarionUsers</td>
+                                    <td>@Model.ModificationTime</td>
+                                </tr>
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

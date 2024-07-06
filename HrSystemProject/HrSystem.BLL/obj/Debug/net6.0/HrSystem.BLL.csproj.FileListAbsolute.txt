@@ -1,0 +1,45 @@
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.deps.json
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.dll
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.pdb
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.AssemblyReference.cache
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.AssemblyInfoInputs.cache
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.AssemblyInfo.cs
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.CoreCompileInputs.cache
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.CopyComplete
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.dll
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\refint\HrSystem.BLL.dll
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.pdb
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\ref\HrSystem.BLL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.deps.json
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.pdb
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.AssemblyReference.cache
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.AssemblyInfoInputs.cache
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.AssemblyInfo.cs
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.CoreCompileInputs.cache
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.CopyComplete
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\refint\HrSystem.BLL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.pdb
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\ref\HrSystem.BLL.dll
+D:\.Net\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.deps.json
+D:\.Net\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.dll
+D:\.Net\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.BLL.pdb
+D:\.Net\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\HrSystemProject\HrSystem.BLL\bin\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.AssemblyReference.cache
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.AssemblyInfoInputs.cache
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.AssemblyInfo.cs
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.CoreCompileInputs.cache
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.csproj.CopyComplete
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.dll
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\refint\HrSystem.BLL.dll
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\HrSystem.BLL.pdb
+D:\.Net\HrSystemProject\HrSystem.BLL\obj\Debug\net6.0\ref\HrSystem.BLL.dll

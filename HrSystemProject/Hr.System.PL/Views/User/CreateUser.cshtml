@@ -1,0 +1,110 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@model SignUpViewModel
+@inject SignInManager<ApplicationUser> signInMangaer
+
+<section id="configuration">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+
+
+                <div class="card-header">
+                    <div class="card-title-wrap bar-success">
+                        <h4 class="card-title">Add user </h4>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="px-3">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <form asp-controller="User" asp-action="CreateUser">
+                            <input type="hidden" asp-for="@Model.CreatorId" />
+                            <div class="form-body">
+                                <div class="form-group row">
+                                    <label asp-for="@Model.UserName" class="col-md-3 label-control" for="projectinput1"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.UserName" type="text" id="projectinput1" class="form-control">
+                                    </div>
+                                    <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+                                </div>
+                                <div class="form-group row">
+                                    <label asp-for="@Model.PhoneNumber" class="col-md-3 label-control" for="projectinput1"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.PhoneNumber" type="text" id="projectinput1" class="form-control">
+                                    </div>
+                                    <span asp-validation-for="@Model.PhoneNumber" class="text-danger"></span>
+                                </div>
+                                <div class="form-group row">
+                                    <label asp-for="@Model.Email" class="col-md-3 label-control" for="projectinput1"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.Email" type="email" id="projectinput1" class="form-control">
+                                    </div>
+                                    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-group row">
+                                    <label asp-for="@Model.Password" class="col-md-3 label-control" for="projectinput1"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.Password" type="password" id="password-input" class="form-control">
+                                        <a href="#" class="password-control" style="position: absolute;top: 11px;right: 10px;display: inline-block;width: 20px; height: 20px;background: url(https://snipp.ru/demo/495/view.svg) 0 0 no-repeat;" onclick="return show_hide_password(this, 'password-input');"></a>
+                                    </div>
+                                    <span asp-validation-for="@Model.Password" class="text-danger"></span>
+                                </div>
+                                <div class="form-group row">
+                                    <label asp-for="@Model.ConfirmPassword" class="col-md-3 label-control" for="projectinput1"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.ConfirmPassword" type="password" id="password-input2" class="form-control">
+                                        <a href="#" class="password-control" style="position: absolute;top: 11px;right: 10px;display: inline-block;width: 20px; height: 20px;background: url(https://snipp.ru/demo/495/view.svg) 0 0 no-repeat;" onclick="return show_hide_password(this, 'password-input2');"></a>
+
+                                    </div>
+                                    <span asp-validation-for="@Model.ConfirmPassword" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group row">
+                                    <label class="col-md-3 label-control">Group Roles</label>
+                                    <div class="col-md-9">
+                                        @foreach (var role in Model.Roles)
+                                        {
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" name="selectedRoles" value="@role.Name" id="role_@role.Id">
+                                                <label class="form-check-label" for="role_@role.Id">
+                                                    @role.Name
+                                                </label>
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-actions">
+                                <a asp-controller="User" asp-action="GetUsers" class="btn btn-danger mr-1"><i class="icon-trash"></i> Cancel</a>
+
+                                <input type="submit" class="btn btn-success">
+
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    function show_hide_password(target, inputId) {
+        var input = document.getElementById(inputId);
+        if (input.getAttribute('type') == 'password') {
+            target.classList.add('view');
+            input.setAttribute('type', 'text');
+        } else {
+            target.classList.remove('view');
+            input.setAttribute('type', 'password');
+        }
+        return false;
+    }
+    
+</script>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,92 @@
+﻿@model SignUpViewModel
+<section id="configuration">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+
+                <div class="card-header">
+                    <div class="card-title-wrap bar-success">
+                        <h4 class="card-title">Update @Model.UserName </h4>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="px-3">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <form asp-controller="User" asp-action="UpdateUser">
+                            <input type="hidden" asp-for="@Model.ModifierId" />
+
+                            <div class="form-body">
+                                <div class="form-group row">
+                                    <label asp-for="@Model.Id" class="col-md-3 label-control" for="projectinput1" hidden></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.Id" type="text"  id="projectinput1" class="form-control" hidden>
+                                    </div>
+                                    <span asp-validation-for="@Model.Id" class="text-danger"></span>
+                                </div>
+                                <div class="form-group row">
+                                    <label asp-for="@Model.UserName" class="col-md-3 label-control" for="projectinput1"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.UserName" type="text" id="projectinput1" class="form-control">
+                                    </div>
+                                    <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+                                </div>
+                                <div class="form-group row">
+                                    <label asp-for="@Model.PhoneNumber" class="col-md-3 label-control" for="projectinput1"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.PhoneNumber"  type="text" id="projectinput1" class="form-control">
+                                    </div>
+                                    <span asp-validation-for="@Model.PhoneNumber" class="text-danger"></span>
+                                </div>
+                                <div class="form-group row">
+                                    <label asp-for="@Model.Email" class="col-md-3 label-control" for="projectinput1"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.Email"  type="email" id="projectinput1" class="form-control">
+                                    </div>
+                                    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-group row">
+                                    <label asp-for="@Model.IsActive" class="col-md-3 label-control"></label>
+                                    <div class="col-md-9">
+                                        <input asp-for="@Model.IsActive" type="checkbox" class="form-control">
+                                    </div>
+                                    <span asp-validation-for="@Model.IsActive" class="text-danger"></span>
+                                </div>
+                                
+                                <div class="form-group row">
+                                    <label class="col-md-3 label-control">Group Roles</label>
+                                    <div class="form-group row">
+                                        <div class="col-md-9">
+                                            @foreach (var role in Model.Roles)
+                                            {
+                                                var isChecked = Model.UserRoles.Any(x => x.RoleId == role.Id && x.value);
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" name="selectedRoles" value="@role.Name" id="role_@role.Id" @(isChecked ? "checked" : "")>
+                                                    <label class="form-check-label" for="role_@role.Id">
+                                                        @role.Name
+                                                    </label>
+                                                </div>
+                                            }
+                                        </div>
+                                    </div>
+                            </div>
+
+                            <div class="form-actions">
+                                <a asp-controller="User" asp-action="GetUsers" class="btn btn-danger mr-1"><i class="icon-trash"></i> Cancel</a>
+
+                                <input type="submit" value="Update" class="btn btn-success">
+
+                            </div>
+
+                                </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

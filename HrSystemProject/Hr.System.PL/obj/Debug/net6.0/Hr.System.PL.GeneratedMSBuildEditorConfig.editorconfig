@@ -1,0 +1,179 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hr.System.PL
+build_property.RootNamespace = Hr.System.PL
+build_property.ProjectDir = D:\.Net\HrSystemProject\Hr.System.PL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\.Net\HrSystemProject\Hr.System.PL
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Account/CompleteForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb21wbGV0ZUZvcmdldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Account/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Account/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2VyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Attendance/BatchAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxCYXRjaEF0dGVuZGFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Attendance/GetAttandances.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxHZXRBdHRhbmRhbmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Attendance/GetAttandancesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxHZXRBdHRhbmRhbmNlc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Attendance/SingleAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxTaW5nbGVBdHRlbmRhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Attendance/UpdateEmployeeAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxVcGRhdGVFbXBsb3llZUF0dGVuZGFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Attendance/UpdateEmployeeAttendanceInSheet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxVcGRhdGVFbXBsb3llZUF0dGVuZGFuY2VJblNoZWV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Employee/DeleteEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Employee/EmployeeInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRW1wbG95ZWVJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Employee/UpdateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/GeneralSetting/CreateGeneralSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbFNldHRpbmdcQ3JlYXRlR2VuZXJhbFNldHRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/GeneralSetting/GetAllGeneralSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbFNldHRpbmdcR2V0QWxsR2VuZXJhbFNldHRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/GeneralSetting/UpdateGeneralSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbFNldHRpbmdcVXBkYXRlR2VuZXJhbFNldHRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Invoice/CreateInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxDcmVhdGVJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Role/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Role/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Role/GetRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxHZXRSb2xlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Role/GetRoleUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxHZXRSb2xlVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Role/UpdateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/SalaryReport/GetReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5UmVwb3J0XEdldFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/User/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/User/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/User/GetUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxHZXRVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/User/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net/HrSystemProject/Hr.System.PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a8d4fsjkcv

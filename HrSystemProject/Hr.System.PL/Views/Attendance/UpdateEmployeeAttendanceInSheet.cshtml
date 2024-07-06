@@ -1,0 +1,48 @@
+﻿@model AttendanceViewModel
+
+<section id="configuration">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title-wrap bar-success">
+                        <div class="col">
+                            <h4 class="card-title">Edit Attendance</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body collapse show">
+                    <div class="card-block card-dashboard">
+                        <form asp-action="UpdateEmployeeAttendanceInSheet" method="post">
+                            <div class="form-group">
+                                <label asp-for="Attendance.EmployeeId" class="col-form-label"></label>
+                                <input asp-for="Attendance.EmployeeId" class="form-control" readonly />
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Attendance.Date" class="col-form-label"></label>
+                                <input asp-for="Attendance.Date" class="form-control" readonly />
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Attendance.CheckInTime" class="col-form-label"></label>
+                                <input asp-for="Attendance.CheckInTime" class="form-control" type="time" required />
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Attendance.CheckOutTime" class="col-form-label"></label>
+                                <input asp-for="Attendance.CheckOutTime" class="form-control" type="time" required />
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" value="Update" class="btn btn-success" />
+                            </div>
+                        </form>
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,81 @@
+﻿@model SignUpViewModel
+
+<section id="configuration">
+    <div>
+        <div class="row">
+            <h4 class="form-section">
+                <i class="icon-user"></i> Personal Details
+            </h4>
+            <div class="col-12">
+                <div class="form-group">
+                    <label asp-for="@Model.UserName" class="col-form-label"></label>
+                    <input asp-for="@Model.UserName" class="form-control" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Email" class="col-form-label"></label>
+                    <input asp-for="@Model.Email" class="form-control" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.PhoneNumber" class="col-form-label"></label>
+                    <input asp-for="@Model.PhoneNumber" class="form-control" readonly>
+                </div>
+                <h4 class="form-section">
+                    <i class="icon-note"> </i> Change Password
+                </h4>
+                <div class="form-group">
+                    <form asp-controller="Account" asp-action="ResetProfilePassword" method="post">
+                        <input asp-for="@Model.Email" class="form-control" hidden>
+                        <div class="form-group">
+                            <label class="col-form-label">Old Password</label>
+                            <div class="col-md-9">
+                                <input asp-for="@Model.OldPassword" type="password" id="password-input" class="form-control">
+                                <a href="#" class="password-control" style="position: absolute;top: 11px;right: 10px;display: inline-block;width: 20px; height: 20px;background: url(https://snipp.ru/demo/495/view.svg) 0 0 no-repeat;" onclick="return show_hide_password(this, 'password-input');"></a>
+
+                            </div>
+                            <span asp-validation-for="@Model.OldPassword" class="text-danger"></span>
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label">New Password</label>
+                            <div class="col-md-9">
+                                <input asp-for="@Model.Password" type="password" id="password-input2" class="form-control">
+                                <a href="#" class="password-control" style="position: absolute;top: 11px;right: 10px;display: inline-block;width: 20px; height: 20px;background: url(https://snipp.ru/demo/495/view.svg) 0 0 no-repeat;" onclick="return show_hide_password(this, 'password-input2');"></a>
+
+                            </div>
+                            <span asp-validation-for="@Model.Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label  class="col-form-label">Confirm Password</label>
+                            <div class="col-md-9">
+                                <input asp-for="@Model.ConfirmPassword" type="password" id="password-input3" class="form-control">
+                                <a href="#" class="password-control" style="position: absolute;top: 11px;right: 10px;display: inline-block;width: 20px; height: 20px;background: url(https://snipp.ru/demo/495/view.svg) 0 0 no-repeat;" onclick="return show_hide_password(this, 'password-input3');"></a>
+
+                            </div>
+                            <span asp-validation-for="@Model.ConfirmPassword" class="text-danger"></span>
+                        </div>
+                        <input type="submit" value="Save" class="btn btn-success btn-block">
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    function show_hide_password(target, inputId) {
+        var input = document.getElementById(inputId);
+        if (input.getAttribute('type') == 'password') {
+            target.classList.add('view');
+            input.setAttribute('type', 'text');
+        } else {
+            target.classList.remove('view');
+            input.setAttribute('type', 'password');
+        }
+        return false;
+    }
+
+</script>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

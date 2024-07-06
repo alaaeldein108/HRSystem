@@ -1,0 +1,100 @@
+﻿@model EmployeeViewModel
+
+<h1>Delete Employee @Model.Name</h1>
+
+<div>
+    <div class="row">
+        <form asp-controller="Employee" asp-action="DeleteEmployee" enctype="multipart/form-data">
+            <h4 class="form-section">
+                <i class="icon-user"></i> Personal Details
+            </h4>
+            <div class="col-12">
+                <div class="form-group">
+                    <label asp-for="@Model.Id" class="col-form-label"></label>
+                    <input asp-for="@Model.Id" class="form-control" readonly />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="@Model.Name" class="col-form-label"></label>
+                    <input asp-for="@Model.Name" class="form-control" value="@Model.Name" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Address" class="col-form-label"></label>
+                    <input asp-for="@Model.Address" class="form-control" value="@Model.Address" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Email" class="col-form-label"></label>
+                    <input asp-for="@Model.Email" class="form-control" value="@Model.Email" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.PhoneNumber" class="col-form-label"></label>
+                    <input asp-for="@Model.PhoneNumber" class="form-control" value="@Model.PhoneNumber" readonly>
+                </div>
+                <h4 class="form-section">
+                    <i class="icon-book-open"></i>Other Details
+                </h4>
+                <div class="form-group">
+                    <label asp-for="@Model.DateOfBirth" class="col-form-label"></label>
+                    <input asp-for="@Model.DateOfBirth" type="date" class="form-control" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Gender" class="col-form-label"></label>
+                    <input asp-for="@Model.Gender" class="form-control" value="@Model.Gender" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.HiringDate" class="col-form-label"></label>
+                    <input asp-for="@Model.HiringDate" type="date" class="form-control" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.CheckInTime" class="col-form-label"></label>
+                    <input asp-for="@Model.CheckInTime" type="time" class="form-control" readonly>
+                    <div class="form-control-position">
+                        <i class="ft-clock"></i>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.CheckOutTime" class="col-form-label"></label>
+                    <input asp-for="@Model.CheckOutTime" type="time" class="form-control" readonly>
+                    <div class="form-control-position">
+                        <i class="ft-clock"></i>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Salary" class="col-form-label"></label>
+                    <input asp-for="@Model.Salary" class="form-control" value="@Model.Salary" readonly>
+                </div>
+                
+                <div class="form-group">
+                    <label asp-for="@Model.NationalId" class="col-form-label"></label>
+                    <input asp-for="@Model.NationalId" class="form-control" value="@Model.NationalId" readonly>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Nationality" class="col-form-label"></label>
+                    <input asp-for="@Model.Nationality" class="form-control" value="@Model.Nationality" readonly>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="@Model.Image" class="col-form-label"></label>
+                    <img src="~/Files/Images/@Model.ImageUrl" height="200" width="200" />
+                    <input asp-for="@Model.ImageUrl" class="form-control" hidden />
+                </div>
+                <div class="form-group row">
+                    <label asp-for="@Model.IsActive" class="col-form-label"></label>
+                    <div class="col-md-9">
+                        <input asp-for="@Model.IsActive" type="checkbox" class="form-control" disabled>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Notes" class="col-form-label"></label>
+                    <textarea asp-for="@Model.Notes" rows="5" class="form-control" readonly></textarea>
+                </div>
+            </div>
+
+            <input type="submit" value="Delete" class="btn btn-primary" />
+            <a asp-controller="Employee" asp-action="EmployeeInformation" class="btn btn-blue-grey">Back To List</a>
+        </form>
+
+    </div>
+
+</div>
+

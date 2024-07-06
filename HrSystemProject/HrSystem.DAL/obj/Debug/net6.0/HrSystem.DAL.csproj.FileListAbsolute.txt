@@ -1,0 +1,42 @@
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.deps.json
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.runtimeconfig.json
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.csproj.AssemblyReference.cache
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.AssemblyInfoInputs.cache
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.AssemblyInfo.cs
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.csproj.CoreCompileInputs.cache
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\refint\HrSystem.DAL.dll
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.genruntimeconfig.cache
+D:\.Net\Route\HR Sytem\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\ref\HrSystem.DAL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.deps.json
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.runtimeconfig.json
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.csproj.AssemblyReference.cache
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.AssemblyInfoInputs.cache
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.AssemblyInfo.cs
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.csproj.CoreCompileInputs.cache
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\refint\HrSystem.DAL.dll
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.genruntimeconfig.cache
+D:\.Net\Route\HRSystemCopy\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\ref\HrSystem.DAL.dll
+D:\.Net\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.deps.json
+D:\.Net\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.runtimeconfig.json
+D:\.Net\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\HrSystemProject\HrSystem.DAL\bin\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.csproj.AssemblyReference.cache
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.AssemblyInfoInputs.cache
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.AssemblyInfo.cs
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.csproj.CoreCompileInputs.cache
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.dll
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\refint\HrSystem.DAL.dll
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.pdb
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\HrSystem.DAL.genruntimeconfig.cache
+D:\.Net\HrSystemProject\HrSystem.DAL\obj\Debug\net6.0\ref\HrSystem.DAL.dll

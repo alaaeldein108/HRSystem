@@ -1,0 +1,179 @@
+﻿@using HrSystem.DAL.Entities
+@using HrSystem.DAL.Identity
+
+
+@model PaginatedList<EmployeeViewModel>
+@{
+    var departments = ViewBag.Departments;
+    int counter = 0;
+}
+<section id="configuration">
+    <div>
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title-wrap bar-success">
+                    <h4 class="card-title">Employees Information</h4>
+                </div>
+            </div>
+            <div class="card-body collapse show">
+                <div class="card-block card-dashboard">
+                    <div class="row">
+                        <form asp-controller="Employee" asp-action="EmployeeInformation">
+                            <div class="col-lg-1"></div>
+                            <div class="row">
+                                <p>&nbsp;&nbsp;&nbsp;</p>
+                                <p>&nbsp;&nbsp;&nbsp;</p>
+                                <div class="">Employee Name</div>
+                                <div class="col-sw-8">
+                                    <input placeholder="Search..." name="SearchValue" class="form-control" />
+                                </div>
+                                <p>&nbsp;&nbsp;&nbsp;</p>
+                                <div>
+                                    <input type="submit" value="search" class="btn btn-success btn-block" />
+                                </div>
+                            </div>
+                        </form>
+                        <div class="col-lg-1"></div>
+                        @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.AddEmployee))
+                        {
+                            <div class="col-lg-3">
+                                <button id="addRow" class="btn btn-primary mb-2">
+                                    <i class="ft-plus"></i>&nbsp;
+                                    <a asp-controller="Employee" asp-action="Create"> Add New Employee</a>
+                                </button>
+                            </div> 
+                        }
+                    </div>
+                    @if (Model.Any())
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-striped table-bordered zero-configuration text-nowrap">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Image</th>
+                                        <th>NationalId</th>
+                                        <th>Name</th>
+                                        <th>PhoneNumber</th>
+                                        <th>DateOfBirth</th>
+                                        <th>Gender</th>
+                                        <th>HiringDate</th>
+                                        <th>Salary</th>
+                                        <th>CheckInTime</th>
+                                        <th>CheckOutTime</th>
+                                        <th>HourRate</th>
+                                        <th>Nationality</th>
+                                        <th>IsActive</th>
+                                        @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.EditEmployee))
+                                        {
+                                            <th>Update</th>
+                                        }
+                                        @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.DeleteEmployee))
+                                        {
+                                            <th>Delete</th>                                        }
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            @{
+                                                counter++;
+                                            }
+                                            <td>@counter</td>
+                                            <td>
+                                                <img src="~/Files/Images/@item.ImageUrl" class="img-circle" height="40" width="40" />
+                                            </td>
+                                            <td>@item.NationalId</td>
+                                            <td>@item.Name</td>
+                                            <td>@item.PhoneNumber</td>
+                                            <td>@item.DateOfBirth.ToShortDateString()</td>
+                                            <td>@item.Gender</td>
+                                            <td>@item.HiringDate.ToShortDateString() </td>
+                                            <td>@item.Salary</td>
+                                            <td>@item.CheckInTime</td>
+                                            <td>@item.CheckOutTime</td>
+                                            <td>@item.HourRate</td>
+                                            <td>@item.Nationality</td>
+                                            <td>@item.IsActive</td>
+                                            @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.EditEmployee))
+                                            {
+                                                <td>
+                                                    <a class="btn btn-info" asp-controller="Employee" asp-action="UpdateEmployee" asp-route-id="@item.Id">
+                                                        Update
+                                                    </a>
+                                                </td>
+                                                
+                                            }
+                                            @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.DeleteEmployee))
+                                            {
+                                                <td>
+                                                    <a class="btn btn-danger" asp-controller="Employee" asp-action="DeleteEmployee" asp-route-id="@item.Id">
+                                                        Delete
+                                                    </a>
+                                                </td>
+                                                
+                                            }
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    <div class="row">
+                        <div>Total @Model.Count</div>
+                        <div class="col">
+                            <form id="pageSizeForm" asp-controller="Employee" asp-action="EmployeeInformation" method="get">
+                                <label>
+                                    <select name="pageSize" id="pageSizeSelect" class="form-control form-control-sm" onchange="this.form.submit()">
+                                        <option value="10">10</option>
+                                        <option value="20">30</option>
+                                        <option value="50">50</option>
+                                        <option value="1000">100</option>
+
+                                    </select>
+                                </label>
+                                <input type="hidden" name="pageNumber" value="@Model.PageIndex" />
+                            </form>
+                        </div>
+                        <p>&nbsp;&nbsp;&nbsp;</p>
+                        <p>&nbsp;&nbsp;&nbsp;</p>
+                        <div class="col text-center">
+                            <ul class="pagination">
+                                <li class="page-item @(Model.HasPreviousPage ? "" : "disabled")">
+                                    <a class="page-link" asp-controller="Employee" asp-action="EmployeeInformation" asp-route-pageNumber="@(Model.PageIndex - 1)" asp-route-pageSize="@Model.PageSize">Previous</a>
+                                </li>
+                                @for (var i = 1; i <= Model.TotalPages; i++)
+                                {
+                                    <li class="page-item @(i == Model.PageIndex ? "active" : "")">
+                                        <a class="page-link" asp-controller="Employee" asp-action="EmployeeInformation" asp-route-pageNumber="@i" asp-route-pageSize="@Model.PageSize">@i</a>
+                                    </li>
+                                }
+                                <li class="page-item @(Model.HasNextPage ? "" : "disabled")">
+                                    <a class="page-link" asp-controller="Employee" asp-action="EmployeeInformation" asp-route-pageNumber="@(Model.PageIndex + 1)" asp-route-pageSize="@Model.PageSize">Next</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var pageSizeSelect = document.getElementById("pageSizeSelect");
+            var pageSize = "@Model.PageSize";
+            for (var i = 0; i < pageSizeSelect.options.length; i++) {
+                if (pageSizeSelect.options[i].value == pageSize) {
+                    pageSizeSelect.options[i].selected = true;
+                    break;
+                }
+            }
+            pageSizeSelect.addEventListener("change", function () {
+                document.getElementById("pageSizeForm").submit();
+            });
+        });
+    </script>
+}

@@ -1,0 +1,139 @@
+﻿@model ApplicationRole
+@{
+    ViewData["Title"] = "Create";
+    int counter = 0;
+}
+
+<section id="configuration">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title-wrap bar-success">
+                        <h4 class="card-title">Add New Group Role</h4>
+                    </div>
+                </div>
+                <div class="card-body collapse show">
+                    <div class="card-block card-dashboard">
+                        <form asp-controller="Role" asp-action="CreateRole">
+                            <div class="col-lg-1"></div>
+                            <div class="row">
+                                <label  class="col-form-label"> Group Name</label>
+                                <div class="col-sw-8">
+                                    <input asp-for="@Model.Name" placeholder="Group Name" class="form-control" />
+                                </div>
+                                <span asp-validation-for="@Model.Name" class="text-danger"></span>
+                                <p>&nbsp;&nbsp;&nbsp;</p>
+                                <div>
+                                    <input type="submit" value="Save" class="btn btn-success btn-block" />
+                                </div>
+                            </div>
+                            <div class="col-lg-1"></div>
+
+                            <div class="col-lg-1"></div>
+                            <table class="table table-striped table-bordered zero-configuration">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Module Name</th>
+                                        <th>Show</th>
+                                        <th>Add</th>
+                                        <th>Edit</th>
+                                        <th>Delete</th>
+                                    </tr>
+                                </thead>
+                                <tbody>                                       
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Employee</td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewEmployee" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddEmployee" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="EditEmployee" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="DeleteEmployee" /></td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>General Setting</td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewGeneralSetting" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddGeneralSetting" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="EditGeneralSetting" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="DeleteGeneralSetting" /></td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Attendance</td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewAttendance" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddAttendance" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="EditAttendance" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="DeleteAttendance" /></td>
+                                    </tr>
+                                    <tr>
+                                        <td>4</td>
+                                        <td>Single Attendance</td>
+                                        <td><input type="checkbox" name="Permissions" value="AddSingleAttendance" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddSingleAttendance" disabled /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddSingleAttendance" disabled /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddSingleAttendance" disabled /></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>5</td>
+                                        <td>Batch Attendance</td>
+                                        <td><input type="checkbox" name="Permissions" value="AddBatchAttendance" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddBatchAttendance" disabled /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddBatchAttendance" disabled /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddBatchAttendance" disabled /></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>Salary Report</td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewSalaryReport" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewSalaryReport" disabled /></td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewSalaryReport" disabled /></td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewSalaryReport" disabled /></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>Invoice</td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewInvoice" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewInvoice" disabled /></td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewInvoice" disabled/></td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewInvoice" disabled /></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>7</td>
+                                        <td>Users</td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewUser" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddUser" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="EditUser" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="DeleteUser" /></td>
+                                    </tr>
+                                    <tr>
+                                        <td>8</td>
+                                        <td>Permissions</td>
+                                        <td><input type="checkbox" name="Permissions" value="ViewRole" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="AddRole" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="EditRole" /></td>
+                                        <td><input type="checkbox" name="Permissions" value="DeleteRole" /></td>
+                                    </tr>
+                                 
+                                </tbody>
+
+                            </table>
+
+                        </form>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,128 @@
+﻿@using HrSystem.DAL.Identity
+@model SalaryreportViewModel
+@{
+    var monthFrom = Model.FromDate.Month;
+    var yearFrom = Model.FromDate.Year;
+    var monthTo = Model.ToDate.Month;
+    var yearTo = Model.FromDate.Year;
+
+}
+<section id="configuration">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title-wrap bar-success">
+                        <h4 class="card-title">Salary report</h4>
+                    </div>
+                </div>
+                <div class="card-body collapse show">
+                    <div class="card-block card-dashboard">
+                        <p class="card-text">
+                            DataTables has most features enabled by default,
+                            so all you need to do to use it with your own ables is to call the construction
+                        </p>
+
+                        <form asp-controller="SalaryReport" asp-action="GetReport">
+                            <div class="row">
+                                <lable class="col-form-label" style="font-weight: bold;">Employee Name:</lable>
+
+                                <div class="col-sw-8">
+                                    <input placeholder="Employee Name" name="SearchValue" class="form-control" />
+                                </div>
+                                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                                <lable class="col-form-label" style="font-weight: bold;">Attendance: </lable>
+                                <div class="col-sw-8">
+                                    <input type="date" class="form-control" id="fromDate" name="fromDate" value="@Model.FromDate.ToString("yyyy-MM-dd")">
+                                </div>
+                                <p>&nbsp;&nbsp;&nbsp;</p>
+                                <label>  </label>
+                                <div class="col-sw-8">
+                                    <input type="date" class="form-control" id="toDate" name="toDate" value="@Model.ToDate.ToString("yyyy-MM-dd")">
+                                </div>
+                                <p>&nbsp;&nbsp;&nbsp;</p>
+                                <div>
+                                    <input type="submit" value="search" class="btn btn-success btn-block" />
+                                </div>
+                            </div>
+
+                        </form>
+      
+
+                    </div>
+                    <div class="table-responsive card-block">
+
+                        <table class="table table-striped table-bordered zero-configuration mt-40 text-nowrap">
+                            <thead>
+                                <tr>
+                                    <th>Attendance Date</th>
+                                    <th>Id</th>
+                                    <th>Employee Name</th>
+                                    <th>Phone</th>
+                                    <th>Salary</th>
+                                    <th>HourRate</th>
+                                    <th>Attendance Days</th>
+                                    <th>Absent Days</th>
+                                    <th>Overtime Hours</th>
+                                    <th>Discount Hours</th>
+                                    <th>Total Extra</th>
+                                    <th>Total Discount</th>
+                                    <th>Total</th>
+                                    @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.ViewInvoice))
+                                    {
+                                        <th>Invoice</th>                                        
+                                    }
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach(var item in Model.ListOfSalaryReport)
+                                {
+                                <tr>
+                                    <td>@monthFrom/@yearFrom-@monthTo/@yearTo</td>
+                                    <td>@item.Employee.Id</td>
+                                    <td>@item.Employee.Name</td>
+                                    <td>@item.Employee.PhoneNumber</td>
+                                    <td>@item.Employee.Salary</td>
+                                    <td>@item.Employee.HourRate</td>
+                                    <td>@item.AttendanceDays</td>
+                                    <td>@item.AbsentDays</td>
+                                    <td>@item.TotalOverTimeHours</td>
+                                    <td>@item.TotalDiscountHours</td>
+                                    <td>@item.TotalExtra</td>
+                                    <td>@item.TotalDiscount</td>
+                                    <td>@item.TotalSalary</td>
+                                    @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.ViewInvoice))
+                                    {
+                                        <td>
+                                        <button class="btn btn-danger mb-2">
+                                            <i class="ft-plus"></i>&nbsp;
+                                                <a asp-controller="Invoice" asp-action="CreateInvoice"
+                                                   asp-route-id="@item.Employee.Id"
+                                                asp-route-name="@item.Employee.Name"
+                                                asp-route-phone="@item.Employee.PhoneNumber"
+                                                asp-route-salary="@item.Employee.Salary"
+                                                asp-route-hourRate="@item.Employee.HourRate"
+                                                asp-route-attendanceDays="@item.AttendanceDays"
+                                                asp-route-absentDays="@item.AbsentDays"
+                                                asp-route-totalOverTimeHours="@item.TotalOverTimeHours"
+                                                asp-route-totalDiscountHours="@item.TotalDiscountHours"
+                                                asp-route-totalExtra="@item.TotalExtra"
+                                                asp-route-totalDiscount="@item.TotalDiscount"
+                                                asp-route-totalSalary="@item.TotalSalary">Invoice</a>
+                                        </button>
+                                    </td>   
+                                    }
+                                </tr>
+             
+                                }
+
+                            </tbody>
+
+                        </table>
+
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>

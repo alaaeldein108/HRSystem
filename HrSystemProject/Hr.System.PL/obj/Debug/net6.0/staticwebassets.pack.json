@@ -1,0 +1,2573 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hr.System.PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hr.System.PL.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\Files\\AttTemplete\\Template.xlsx",
+      "PackagePath": "staticwebassets\\Files\\AttTemplete\\Template.xlsx"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\Files\\Images\\112421fe-fb7a-4c31-a695-2d0d7ea3564120230814-145102.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\112421fe-fb7a-4c31-a695-2d0d7ea3564120230814-145102.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\Files\\Images\\38261581-7a98-4806-8a1d-5367f3c7276f20240126-160905.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\38261581-7a98-4806-8a1d-5367f3c7276f20240126-160905.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\Files\\Images\\3ab5d9b6-ca71-47ab-a1e6-fb4c329abce020240101-112719.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\3ab5d9b6-ca71-47ab-a1e6-fb4c329abce020240101-112719.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\Files\\Images\\42d90183-8537-4d56-9b53-8e56b8ddaef6Alaa.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\42d90183-8537-4d56-9b53-8e56b8ddaef6Alaa.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\Files\\Images\\cbae62cc-1a8c-4acd-969b-3b98fb8cabe820240126-160854.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\cbae62cc-1a8c-4acd-969b-3b98fb8cabe820240126-160854.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\Files\\Images\\dfc1c033-e54a-45b4-8f06-24afda6bfd41fad42c8f-0135-46e4-8bb5-ddfe650f2a2d.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\dfc1c033-e54a-45b4-8f06-24afda6bfd41fad42c8f-0135-46e4-8bb5-ddfe650f2a2d.jpeg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\app-assets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\feather\\fonts\\feather2467.eot",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\feather\\fonts\\feather2467.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\feather\\fonts\\feather2467.svg",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\feather\\fonts\\feather2467.svg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\feather\\fonts\\feather2467.ttf",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\feather\\fonts\\feather2467.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\feather\\fonts\\feather2467.woff",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\feather\\fonts\\feather2467.woff"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\feather\\style.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\feather\\style.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\meteocons\\fonts\\meteoconsddea.eot",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\meteocons\\fonts\\meteoconsddea.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\meteocons\\fonts\\meteoconsddea.ttf",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\meteocons\\fonts\\meteoconsddea.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\meteocons\\style.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\meteocons\\style.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\fonts\\simple-line-icons\\style.css",
+      "PackagePath": "staticwebassets\\app-assets\\fonts\\simple-line-icons\\style.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\flags\\br.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\flags\\br.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\flags\\de.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\flags\\de.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\flags\\es.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\flags\\es.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\flags\\us.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\flags\\us.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\10.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\11.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\12.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\16.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\17.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\18.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\18.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\19.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\19.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\20.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\20.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\21.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\21.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\22.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\22.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\23.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\23.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\24.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\24.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\25.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\25.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\26.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\26.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\27.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\27.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\28.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\28.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\29.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\29.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\30.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\30.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\31.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\31.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\32.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\32.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\33.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\33.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\7.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\8.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\gallery\\9.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\ico\\apple-icon-120.html",
+      "PackagePath": "staticwebassets\\app-assets\\img\\ico\\apple-icon-120.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\ico\\apple-icon-152.html",
+      "PackagePath": "staticwebassets\\app-assets\\img\\ico\\apple-icon-152.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\ico\\apple-icon-60.html",
+      "PackagePath": "staticwebassets\\app-assets\\img\\ico\\apple-icon-60.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\ico\\apple-icon-76.html",
+      "PackagePath": "staticwebassets\\app-assets\\img\\ico\\apple-icon-76.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\ico\\favicon-32.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\ico\\favicon-32.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\pages\\sativa.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\pages\\sativa.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\pages\\signature-scan.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\pages\\signature-scan.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\pattern_h.png",
+      "PackagePath": "staticwebassets\\app-assets\\img\\pattern_h.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\01.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\01.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\02.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\02.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\03.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\03.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\04.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\04.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\05.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\05.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\1.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\14.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\15.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\15.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\16.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\16.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\17.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\17.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\2.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\3.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\4.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\5.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\7.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\7.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\photos\\8.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\photos\\8.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\medium\\avatar-m-9.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\medium\\avatar-m-9.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-1.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-11.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-11.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-12.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-12.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-14.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-15.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-15.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-16.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-16.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-17.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-17.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-18.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-18.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-19.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-19.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-20.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-20.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-21.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-21.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-22.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-22.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-23.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-23.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-24.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-24.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-27.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-27.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-3.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-4.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-5.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-6.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-6.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-7.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-7.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-8.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-8.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\portrait\\small\\avatar-s-9.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\portrait\\small\\avatar-s-9.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\sidebar-bg\\01.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\sidebar-bg\\01.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\sidebar-bg\\02.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\sidebar-bg\\02.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\sidebar-bg\\03.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\sidebar-bg\\03.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\sidebar-bg\\04.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\sidebar-bg\\04.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\sidebar-bg\\05.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\sidebar-bg\\05.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\sidebar-bg\\06.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\sidebar-bg\\06.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\sidebar-bg\\07.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\sidebar-bg\\07.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\sidebar-bg\\08.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\sidebar-bg\\08.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\slide.PNG",
+      "PackagePath": "staticwebassets\\app-assets\\img\\slide.PNG"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\slide2.PNG",
+      "PackagePath": "staticwebassets\\app-assets\\img\\slide2.PNG"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\slide3.PNG",
+      "PackagePath": "staticwebassets\\app-assets\\img\\slide3.PNG"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\img\\width-600\\portfolio-14.jpg",
+      "PackagePath": "staticwebassets\\app-assets\\img\\width-600\\portfolio-14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\app-sidebar.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\app-sidebar.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\chartist.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\chartist.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\chartjs.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\chartjs.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\chat.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\chat.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\coming-soon.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\coming-soon.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\components-modal.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\components-modal.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\customizer.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\customizer.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\dashboard-analytics.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\dashboard-ecommerce.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\dashboard-ecommerce.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\data-tables\\datatable-advanced.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\data-tables\\datatable-advanced.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\data-tables\\datatable-api.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\data-tables\\datatable-api.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\data-tables\\datatable-basic.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\data-tables\\datatable-basic.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\data-tables\\datatable-styling.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\data-tables\\datatable-styling.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\data-tables\\datatables-sources.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\data-tables\\datatables-sources.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\draggable.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\draggable.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\dropzone.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\dropzone.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\form-typeahead.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\form-typeahead.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\form-validation.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\horizontal-timeline.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\horizontal-timeline.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\maps.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\maps.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\notification-sidebar.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\notification-sidebar.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\pick-a-datetime.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\pick-a-datetime.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\popover.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\popover.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\quill.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\rating.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\rating.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\sweet-alerts.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\sweet-alerts.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\switch.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\switch.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\tagging.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\tagging.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\taskboard.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\taskboard.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\tour.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\tour.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\js\\wizard-steps.js",
+      "PackagePath": "staticwebassets\\app-assets\\js\\wizard-steps.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\chartist.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\chartist.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\dragula.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\dragula.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_AMS-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_AMS-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Bold-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Bold-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Bold-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Bold-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Bold-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Bold-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Bold.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Bold.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Italic-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Italic-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Italic-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Italic-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Italic-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Italic-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Italic.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Italic.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Regular.woff2",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Main-Regular.woff2"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Math-Italic-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Math-Italic-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Math-Italic-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Math-Italic-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Math-Italic.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Math-Italic.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Math-Italic.woff2",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Math-Italic.woff2"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Script-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Script-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Script-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Script-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Script-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Script-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Script-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Script-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size1-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size1-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size2-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size2-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size3-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size3-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Size4-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Size4-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-2.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-3.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-4.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\hopscotch.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\hopscotch.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\katex.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\katex.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\monokai-sublime.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\monokai-sublime.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\pickadate\\pickadate.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\pickadate\\pickadate.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\prism.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\prism.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\raty\\fonts\\raty.eot",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\raty\\fonts\\raty.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\raty\\fonts\\raty.svg",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\raty\\fonts\\raty.svg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\raty\\fonts\\raty.ttf",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\raty\\fonts\\raty.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\raty\\fonts\\raty.woff",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\raty\\fonts\\raty.woff"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\raty\\fonts\\ratyd41d.eot",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\raty\\fonts\\ratyd41d.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\raty\\jquery.raty.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\raty\\jquery.raty.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\switchery.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\switchery.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\tables\\datatable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\tables\\datatable\\datatables.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\tables\\datatable\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\tables\\datatable\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\tagging.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\tagging.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\toastr.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\toastr.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\css\\wizard.css",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\css\\wizard.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\img\\tour\\cross.html",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\img\\tour\\cross.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\chart.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\chartist.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\core\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\core\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\buttons.flash.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\jszip.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\datatable\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\datatable\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\dragula.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\dragula.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\highlight.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\highlight.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\hopscotch.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\hopscotch.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\jquery.matchHeight-min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\jquery.matchHeight-min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\jquery.raty.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\jquery.raty.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\jquery.steps.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\katex.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\katex.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\pace\\pace.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\pickadate\\legacy.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\pickadate\\legacy.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\pickadate\\picker.date.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\pickadate\\picker.date.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\pickadate\\picker.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\pickadate\\picker.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\pickadate\\picker.time.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\pickadate\\picker.time.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\prism.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\prism.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\quill.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\screenfull.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\screenfull.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\switchery.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\switchery.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\tagging.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\tagging.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\typeahead\\bloodhound.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\typeahead\\bloodhound.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\typeahead\\handlebars.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\typeahead\\handlebars.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\app-assets\\vendors\\js\\typeahead\\typeahead.bundle.min.js",
+      "PackagePath": "staticwebassets\\app-assets\\vendors\\js\\typeahead\\typeahead.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\feather\\fonts\\feather2467.eot",
+      "PackagePath": "staticwebassets\\fonts\\feather\\fonts\\feather2467.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\feather\\fonts\\feather2467.svg",
+      "PackagePath": "staticwebassets\\fonts\\feather\\fonts\\feather2467.svg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\feather\\fonts\\feather2467.ttf",
+      "PackagePath": "staticwebassets\\fonts\\feather\\fonts\\feather2467.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\feather\\fonts\\feather2467.woff",
+      "PackagePath": "staticwebassets\\fonts\\feather\\fonts\\feather2467.woff"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\feather\\style.min.css",
+      "PackagePath": "staticwebassets\\fonts\\feather\\style.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\meteocons\\fonts\\meteoconsddea.eot",
+      "PackagePath": "staticwebassets\\fonts\\meteocons\\fonts\\meteoconsddea.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\meteocons\\fonts\\meteoconsddea.ttf",
+      "PackagePath": "staticwebassets\\fonts\\meteocons\\fonts\\meteoconsddea.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\meteocons\\style.min.css",
+      "PackagePath": "staticwebassets\\fonts\\meteocons\\style.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\fonts\\simple-line-icons\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\style.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\flags\\br.png",
+      "PackagePath": "staticwebassets\\img\\flags\\br.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\flags\\de.png",
+      "PackagePath": "staticwebassets\\img\\flags\\de.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\flags\\es.png",
+      "PackagePath": "staticwebassets\\img\\flags\\es.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\flags\\us.png",
+      "PackagePath": "staticwebassets\\img\\flags\\us.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\10.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\11.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\12.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\16.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\17.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\18.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\19.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\20.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\21.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\21.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\22.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\22.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\23.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\24.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\25.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\26.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\27.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\28.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\28.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\29.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\29.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\30.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\30.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\31.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\31.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\32.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\32.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\33.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\33.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\7.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\8.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\9.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\ico\\apple-icon-120.html",
+      "PackagePath": "staticwebassets\\img\\ico\\apple-icon-120.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\ico\\apple-icon-152.html",
+      "PackagePath": "staticwebassets\\img\\ico\\apple-icon-152.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\ico\\apple-icon-60.html",
+      "PackagePath": "staticwebassets\\img\\ico\\apple-icon-60.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\ico\\apple-icon-76.html",
+      "PackagePath": "staticwebassets\\img\\ico\\apple-icon-76.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\ico\\favicon-32.png",
+      "PackagePath": "staticwebassets\\img\\ico\\favicon-32.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\pages\\sativa.png",
+      "PackagePath": "staticwebassets\\img\\pages\\sativa.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\pages\\signature-scan.png",
+      "PackagePath": "staticwebassets\\img\\pages\\signature-scan.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\pattern_h.png",
+      "PackagePath": "staticwebassets\\img\\pattern_h.png"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\01.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\02.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\03.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\04.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\05.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\15.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\16.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\17.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\7.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\photos\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\8.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\medium\\avatar-m-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\medium\\avatar-m-9.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-11.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-11.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-12.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-12.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-14.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-15.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-15.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-16.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-16.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-17.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-17.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-18.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-18.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-19.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-19.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-20.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-20.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-21.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-21.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-22.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-22.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-23.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-23.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-24.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-24.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-27.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-27.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-6.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-7.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-8.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\portrait\\small\\avatar-s-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-9.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\sidebar-bg\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\01.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\sidebar-bg\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\02.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\sidebar-bg\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\03.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\sidebar-bg\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\04.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\sidebar-bg\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\05.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\sidebar-bg\\06.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\06.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\sidebar-bg\\07.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\07.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\sidebar-bg\\08.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\08.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\slide.PNG",
+      "PackagePath": "staticwebassets\\img\\slide.PNG"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\slide2.PNG",
+      "PackagePath": "staticwebassets\\img\\slide2.PNG"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\slide3.PNG",
+      "PackagePath": "staticwebassets\\img\\slide3.PNG"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\img\\width-600\\portfolio-14.jpg",
+      "PackagePath": "staticwebassets\\img\\width-600\\portfolio-14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\app-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\app-sidebar.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\chartist.js",
+      "PackagePath": "staticwebassets\\js\\chartist.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\chartjs.js",
+      "PackagePath": "staticwebassets\\js\\chartjs.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\coming-soon.js",
+      "PackagePath": "staticwebassets\\js\\coming-soon.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\components-modal.min.js",
+      "PackagePath": "staticwebassets\\js\\components-modal.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\customizer.js",
+      "PackagePath": "staticwebassets\\js\\customizer.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\js\\dashboard-analytics.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\dashboard-ecommerce.js",
+      "PackagePath": "staticwebassets\\js\\dashboard-ecommerce.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\data-tables\\datatable-advanced.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatable-advanced.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\data-tables\\datatable-api.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatable-api.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\data-tables\\datatable-basic.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatable-basic.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\data-tables\\datatable-styling.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatable-styling.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\data-tables\\datatables-sources.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatables-sources.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\draggable.js",
+      "PackagePath": "staticwebassets\\js\\draggable.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\dropzone.js",
+      "PackagePath": "staticwebassets\\js\\dropzone.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\form-typeahead.js",
+      "PackagePath": "staticwebassets\\js\\form-typeahead.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\js\\form-validation.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\horizontal-timeline.min.js",
+      "PackagePath": "staticwebassets\\js\\horizontal-timeline.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\maps.js",
+      "PackagePath": "staticwebassets\\js\\maps.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\notification-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\notification-sidebar.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\pick-a-datetime.js",
+      "PackagePath": "staticwebassets\\js\\pick-a-datetime.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\popover.js",
+      "PackagePath": "staticwebassets\\js\\popover.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\js\\quill.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\rating.js",
+      "PackagePath": "staticwebassets\\js\\rating.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\sweet-alerts.js",
+      "PackagePath": "staticwebassets\\js\\sweet-alerts.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\switch.min.js",
+      "PackagePath": "staticwebassets\\js\\switch.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\tagging.js",
+      "PackagePath": "staticwebassets\\js\\tagging.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\taskboard.js",
+      "PackagePath": "staticwebassets\\js\\taskboard.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\tour.min.js",
+      "PackagePath": "staticwebassets\\js\\tour.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\js\\wizard-steps.js",
+      "PackagePath": "staticwebassets\\js\\wizard-steps.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\chartist.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\chartist.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\dragula.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\dragula.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_AMS-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_AMS-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_AMS-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_AMS-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_AMS-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Bold-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Bold-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Bold-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Bold-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Bold-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Bold-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Bold.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Bold.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Italic-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Italic-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Italic-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Italic-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Italic-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Italic-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Italic.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Italic.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Regular.woff2",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Regular.woff2"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Math-Italic-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Math-Italic-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Math-Italic-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Math-Italic-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Math-Italic.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Math-Italic.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Math-Italic.woff2",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Math-Italic.woff2"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Script-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Script-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Script-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Script-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Script-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Script-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Script-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Script-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size1-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size1-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size1-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size1-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size1-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size2-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size2-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size2-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size2-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size2-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size3-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size3-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size3-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size3-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size3-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size4-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size4-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size4-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size4-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size4-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-2.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-3.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-4.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\hopscotch.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\hopscotch.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\katex.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\katex.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\monokai-sublime.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\monokai-sublime.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\pickadate\\pickadate.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\pickadate\\pickadate.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\prism.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\prism.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\raty\\fonts\\raty.eot",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\raty.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\raty\\fonts\\raty.svg",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\raty.svg"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\raty\\fonts\\raty.ttf",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\raty.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\raty\\fonts\\raty.woff",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\raty.woff"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\raty\\fonts\\ratyd41d.eot",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\ratyd41d.eot"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\raty\\jquery.raty.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\jquery.raty.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\switchery.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\switchery.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\tables\\datatable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\tables\\datatable\\datatables.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\tables\\datatable\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\tables\\datatable\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\tagging.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\tagging.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\toastr.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\toastr.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\css\\wizard.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\wizard.css"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\img\\tour\\cross.html",
+      "PackagePath": "staticwebassets\\vendors\\img\\tour\\cross.html"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\chart.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\chartist.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\core\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\core\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\buttons.flash.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\jszip.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\datatable\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\dragula.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\dragula.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\highlight.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\highlight.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\hopscotch.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\hopscotch.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\jquery.matchHeight-min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.matchHeight-min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\jquery.raty.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.raty.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.steps.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\katex.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\katex.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pace\\pace.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\pickadate\\legacy.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pickadate\\legacy.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\pickadate\\picker.date.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pickadate\\picker.date.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\pickadate\\picker.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pickadate\\picker.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\pickadate\\picker.time.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pickadate\\picker.time.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\prism.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\prism.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\quill.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\screenfull.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\screenfull.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\switchery.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\switchery.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\tagging.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\tagging.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\typeahead\\bloodhound.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\typeahead\\bloodhound.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\typeahead\\handlebars.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\typeahead\\handlebars.js"
+    },
+    {
+      "Id": "D:\\.Net\\HrSystemProject\\Hr.System.PL\\wwwroot\\vendors\\js\\typeahead\\typeahead.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\typeahead\\typeahead.bundle.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hr.System.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hr.System.PL.props",
+      "PackagePath": "build\\Hr.System.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hr.System.PL.props",
+      "PackagePath": "buildMultiTargeting\\Hr.System.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hr.System.PL.props",
+      "PackagePath": "buildTransitive\\Hr.System.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

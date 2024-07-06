@@ -1,0 +1,113 @@
+﻿@using HrSystem.DAL.Identity
+@model GeneralSettingViewModel
+
+<div class="row">
+    <div class ="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title-wrap bar-success">
+                    <h4 class="card-title">General Setting Employees</h4>
+                </div>
+            </div>
+            <div class="card-body collapse show">
+                <div class="card-block card-dashboard">
+
+                    <div class="row">
+                        <div class="col-sm-12 col-md-3">
+                            <div class="dataTables_length" id="DataTables_Table_0_length">
+                                <label>
+                                    Show
+                                    <select name="DataTables_Table_0_length" aria-controls="DataTables_Table_0" class="form-control form-control-sm">
+                                        <option value="10">10</option>
+                                        <option value="25">25</option>
+                                        <option value="50">50</option>
+                                        <option value="100">100</option>
+                                    </select>
+                                </label>
+                            </div>
+                        </div>
+                        <form asp-controller="GeneralSetting" asp-action="GetAllGeneralSetting">
+                            <div class="col-lg-1"></div>
+                            <div class="row">
+                                <div class="col-sw-8">
+                                    <input placeholder="Search..." name="SearchValue" class="form-control" />
+                                </div>
+                                <p>&nbsp;&nbsp;&nbsp;</p>
+                                <div>
+                                    <input type="submit" value="search" class="btn btn-success btn-block" />
+                                </div>
+                            </div>
+                        </form>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                        @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.AddGeneralSetting))
+                        {
+                            <button id="addRow" class="btn btn-primary mb-2">
+                                <a asp-controller="GeneralSetting" asp-action="CreateGeneralSetting" >Create General Setting</a>
+                            </button> 
+                        }
+                    </div>
+                    
+                    <table class="table table-striped table-bordered zero-configuratio text-nowrap">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Vacations</th>
+                                <th>OverTimeHours</th>
+                                <th>DisCountHours</th>
+                                @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.EditGeneralSetting))
+                                {
+                                    <th>Update</th>
+                                }
+                                @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.DeleteGeneralSetting))
+                                {
+                                    <th>Delete</th>
+                                }
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var item in Model.ListOfGeneralSettingsDto)
+                            {
+                                <tr>
+                                    <td>@item.EmployeeId</td>
+                                    <td>@item.Employee.Name</td>
+                                    <td>@item.Vacations</td>
+                                    <td>@item.OvertimeHours</td>
+                                    <td>@item.DiscountHours</td>
+                                    @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.EditGeneralSetting))
+                                    {
+                                        <td>
+                                            <a class="btn btn-info" asp-asp-controller="GeneralSetting" asp-action="UpdateGeneralSetting" asp-route-employeeId="@item.EmployeeId">
+                                                Update
+                                            </a>
+                                        </td>
+                                    }
+                                    @if (signInMangaer.IsSignedIn(User) && User.HasClaim("Permission", Permissions.DeleteGeneralSetting))
+                                    {
+                                        <form asp-asp-controller="GeneralSetting" asp-action="DeleteGeneralSetting" asp-route-employeeId="@item.EmployeeId"  onsubmit="return confirmDelete()">
+                                        <td>
+                                            <button type="submit" class="btn btn-danger mr-1">
+                                                <i class="icon-trash"></i> Delete
+                                            </button>
+                                        </td>
+                                        </form>
+                                    }
+                                </tr>
+                            }
+                        </tbody>
+
+                    </table>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function confirmDelete() {
+        return confirm('Are you sure you want to delete this record?');
+    }
+</script>
